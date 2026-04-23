@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Project-specific ignores
+app.log
+*.pdf
+
 # C extensions
 *.so
 
