@@ -1,0 +1,5 @@
+pdfplumber
+nltk
+sentence-transformers
+scikit-learn
+colorama

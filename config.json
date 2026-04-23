@@ -1,0 +1,40 @@
+{
+    "weights": {
+        "hard_skill": 2.0,
+        "soft_skill": 1.0,
+        "default": 1.2
+    },
+    "section_weights": {
+        "experience": 2.5,
+        "projects": 2.0,
+        "skills": 1.5,
+        "education": 1.0
+    },
+    "skills": {
+        "hard_skills": [
+            "python",
+            "sql",
+            "javascript",
+            "html",
+            "css",
+            "java",
+            "react",
+            "node",
+            "api"
+        ],
+        "mid_skills": [
+            "backend",
+            "frontend",
+            "database"
+        ],
+        "soft_skills": [
+            "communication",
+            "teamwork",
+            "leadership",
+            "problem",
+            "solving",
+            "management",
+            "creative"
+        ]
+    }
+}
